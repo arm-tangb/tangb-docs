@@ -1,9 +1,12 @@
-Template for the Read the Docs tutorial
+
+TangBin's Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+项目管理
+---------------------------------------
 
-Read the tutorial here:
+Read the Docs: https://tangb-docs.readthedocs.io/zh_CN/latest/ProjectManagement.html
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Gitee: https://gitee.com/arm-tangb/tangb-docs/blob/main/docs/source/ProjectManagement.rst
+
+GitHub: https://github.com/arm-tangb/tangb-docs/docs/source/ProjectManagement.rst
