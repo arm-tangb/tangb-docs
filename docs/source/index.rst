@@ -14,6 +14,7 @@ Contents
 
 .. toctree::
 
+   DocumentIndex
    ProjectManagement
    sphinx
    microsoft
