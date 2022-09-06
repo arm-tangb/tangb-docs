@@ -15,5 +15,6 @@ Contents
 .. toctree::
 
    ProjectManagement
+   sphinx
    usage
    api
