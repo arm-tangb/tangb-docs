@@ -185,7 +185,7 @@
 2.1.1 制定项目章程
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../images/ProjectManagement/02.01.制定项目章程.数据流图.png
+.. image:: ../images/ProjectManagement/02.01.制定项目章程.数据流图.svg
    :align: center
    :alt: 制定项目章程.数据流图
 
@@ -193,7 +193,7 @@
 2.1.2 规划项目管理
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../images/ProjectManagement/02.02.规划项目管理.数据流图.png
+.. image:: ../images/ProjectManagement/02.02.规划项目管理.数据流图.svg
    :align: center
    :alt: 规划项目管理.数据流图
 
@@ -201,7 +201,7 @@
 2.1.3 指导和管理项目执行
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../images/ProjectManagement/02.03.指导和管理项目执行.数据流图.png
+.. image:: ../images/ProjectManagement/02.03.指导和管理项目执行.数据流图.svg
    :align: center
    :alt: 指导和管理项目执行.数据流图
 
@@ -227,7 +227,7 @@
 | 在实施批准的变更时进行监视。                                                               |
 +--------------------------------------------------------------------------------------------+
 
-.. image:: ../images/ProjectManagement/02.04.监控项目工作.数据流图.png
+.. image:: ../images/ProjectManagement/02.04.监控项目工作.数据流图.svg
    :align: center
    :alt: 监控项目工作.数据流图
 
@@ -235,7 +235,7 @@
 2.1.5 整体变更控制
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: ../images/ProjectManagement/02.05.整体变更控制.数据流图.png
+.. image:: ../images/ProjectManagement/02.05.整体变更控制.数据流图.svg
    :align: center
    :alt: 整体变更控制.数据流图
 
@@ -253,7 +253,7 @@
 | 为收集项目或阶段记录、审核项目成败、收集经验教训和存档项目信息所必需的活动。               |
 +--------------------------------------------------------------------------------------------+
 
-.. image:: ../images/ProjectManagement/02.06.项目收尾.数据流图.png
+.. image:: ../images/ProjectManagement/02.06.项目收尾.数据流图.svg
    :align: center
    :alt: 项目收尾.数据流图
 
