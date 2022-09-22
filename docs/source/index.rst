@@ -16,6 +16,7 @@ Contents
 
    DocumentIndex
    ProjectManagement
+   gaussian_distribution
    实践论
    iptables
    tuya
