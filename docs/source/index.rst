@@ -16,6 +16,7 @@ Contents
 
    DocumentIndex
    ProjectManagement
+   ProjectManagement.论文
    gaussian_distribution
    实践论
    iptables
