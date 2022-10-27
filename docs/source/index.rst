@@ -1,26 +1,26 @@
 
-Welcome to TangBin's documentation!
-===================================
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+==============================
+唐斌的文档
+==============================
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
+目录
+==============================
 
 .. toctree::
+   :maxdepth: 1
+   :glob:
 
+   ProjectManagement.项目管理/index
    DocumentIndex
-   ProjectManagement
-   ProjectManagement.论文
    gaussian_distribution
    实践论
    iptables
    tuya
+   github
    sphinx
    microsoft
    usage
