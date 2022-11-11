@@ -27,3 +27,7 @@
 `[Gitee] <https://gitee.com/arm-tangb/tangb-docs/blob/main/docs/source/实践论.rst>`_
 `[GitHub] <https://github.com/arm-tangb/tangb-docs/blob/main/docs/source/实践论.rst>`_
 
+**子女成长：**
+`[Read the Docs] <https://tangb-docs.readthedocs.io/zh_CN/latest/子女成长.html>`_
+`[Gitee] <https://gitee.com/arm-tangb/tangb-docs/blob/main/docs/source/子女成长.rst>`_
+`[GitHub] <https://github.com/arm-tangb/tangb-docs/blob/main/docs/source/子女成长.rst>`_
