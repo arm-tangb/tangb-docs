@@ -18,6 +18,7 @@
    DocumentIndex
    gaussian_distribution
    实践论
+   子女成长
    iptables
    tuya
    github
